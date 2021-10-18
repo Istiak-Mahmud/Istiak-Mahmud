@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Istiak Mahmud</h1>
 <h3 align="center">A passionate R&D Engineer from Bangladesh.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istiak-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="istiak-mahmud" /> </p>
 
