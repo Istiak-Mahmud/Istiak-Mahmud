@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Istiak Mahmud</h1>
-<h3 align="center">A passionate R&D Engineer from Bangladesh.</h3>
+<h3 align="center">R&D Engineer from Bangladesh.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2497068/screenshots/12478515/media/991592012e722e66f832085aaf5171b8.gif">
 
