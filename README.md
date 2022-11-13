@@ -1,3 +1,6 @@
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 <h1 align="center">Hi 👋, I'm Istiak Mahmud</h1>
 <h3 align="center">R&D Engineer from Bangladesh.</h3>
 
