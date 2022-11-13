@@ -19,4 +19,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=istiak-mahmud&show_icons=true&locale=en&layout=compact" alt="istiak-mahmud" /></p>
 
-![snake gif](https://github.com/Istiak-Mahmud/Istiak-Mahmud/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/KushalTanna24/KushalTanna24/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
